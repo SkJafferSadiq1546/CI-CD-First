@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <h1>CI-CD </h1>
-      <h2>S211</h2>
+      <h1>CI-CD Course</h1>
+      <h2>S211 Section</h2>
     </>
   )
 }

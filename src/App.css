@@ -1,7 +1,10 @@
-h1{
-    color:rgb(216, 132, 14)
+h1 {
+    color: rgb(216, 132, 14);
+    background-color: #fef3dc; 
+    padding: 10px;
 }
-h2{
+
+h2 {
     color: blue;
     font-size: medium;
 }
