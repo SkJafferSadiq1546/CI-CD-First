@@ -1,6 +1,9 @@
+body {
+    background-color: #fef3dc; /* light cream color */
+}
+
 h1 {
-    color: rgb(216, 132, 14);
-    background-color: #fef3dc; 
+    color: rgb(216, 132, 14); 
     padding: 10px;
 }
 
