@@ -1,9 +1,16 @@
 body {
-    background-color: #fef3dc; /* light cream color */
+    background-color: #fef3dc; /* your background */
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center;     /* centers vertically */
+    height: 100vh;           /* full viewport height */
+    margin: 0;               /* remove default margin */
+    flex-direction: column;  /* stack content vertically */
+    text-align: center;      /* center text inside */
 }
 
 h1 {
-    color: rgb(216, 132, 14); 
+    color: rgb(216, 132, 14);
     padding: 10px;
 }
 
